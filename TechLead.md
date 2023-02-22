@@ -2,12 +2,12 @@
 
 Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 4 | Yes | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
-| 5 | Yes | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
-| 6 | Yes | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
-| 7 | Yes | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
+| Level | Senior | Position | Mapping |
+| :---: | :---: | :---: | :---: |
+| 4 | Yes | [TL4 - Tech Lead 4](#tl4---tech-lead-4) | IC5 |
+| 5 | Yes | [TL5 - Tech Lead 5](#tl5---tech-lead-5) | IC6 |
+| 6 | Yes | [TL6 - Tech Lead 6](#tl6---tech-lead-6) | IC7 |
+| 7 | Yes | [TL7 - Tech Lead 7](#tl7---tech-lead-7) | IC8 |
 
 
 ## TL4 - Tech Lead 4
